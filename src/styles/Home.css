@@ -1,0 +1,7 @@
+.header-container {
+    min-width: 100%;
+    background-color: black;
+    max-height: 1px;
+    position: absolute;
+    top: 10px;
+}

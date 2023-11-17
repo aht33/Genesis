@@ -1,0 +1,17 @@
+:root {
+  font-family: 'Cormorant', serif;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: black;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+
+}
