@@ -1,0 +1,22 @@
+.form-container {
+    margin: 100px 150px;
+    border: 2px solid #000;
+    background-color: blanchedalmond;
+    width: 350px;
+    min-height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+input {
+    border-radius: 5px;
+}
+
+button {
+    margin: 0px 65px;
+    border-radius: 5px;
+    color: white;
+    background-color: var(--secondary);
+}

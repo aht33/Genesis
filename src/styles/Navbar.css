@@ -1,0 +1,17 @@
+.header-container {
+    width: 100%;
+    color: white;
+    background-color: var(--primary);
+    height: 70px;
+    position: absolute;
+    top: 0px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: flex-start;
+    z-index: 9999;
+}
+
+.title-container {
+    padding-left: 20px;;
+}
