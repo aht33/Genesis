@@ -1,5 +1,7 @@
 import "../styles/Post.css"
 import { NavLink } from "react-router-dom"
+import { useState } from "react"
+import supabase from "../client"
 
 const Post = (prop) => {
   return (

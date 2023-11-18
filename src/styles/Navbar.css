@@ -15,3 +15,9 @@
 .title-container {
     padding-left: 20px;;
 }
+
+
+.nav {
+    text-decoration: none;
+    color: inherit;
+}
